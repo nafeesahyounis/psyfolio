@@ -201,7 +201,13 @@ article#main-col{
   width: 65%;
 
 }
-
+/* paragraph section  */
+article#main-col p{
+  padding: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  background:   #515a5a;
+}
 /* =========================== */
 /* stories section */
 /* =========================== */
