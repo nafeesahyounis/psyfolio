@@ -1,11 +1,9 @@
 body{
-  color: white;
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-size: 15px;
   line-height: 1.5;
   padding: 0;
   margin: 0;
-  background-color: #424949;
 }
 
 /* global */
@@ -22,17 +20,13 @@ ul{
 
 .button_1{
   height: 38px;
-  background: gold;
   border: 0px;
   padding-left: 20px;
   padding-right: 20px;
-  color: black;
 }
 
 .dark{
   padding: 15px;
-  background: #35424a;
-  color: #ffffff;
   border-radius: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -40,14 +34,11 @@ ul{
 
 /* header */
 header{
-  background: #35424a;
   padding-top: 30px;
   min-height: 70px;
-  border-bottom: gold 3px solid;
 }
 
 header a{
-  color: white;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 16px;
@@ -73,17 +64,14 @@ header nav{
 }
 
 header .highlight{
-  color: #e8491d;
   font-weight: bold;
 }
 
 header .current a{
-  color: gold;
   font-weight: bold;
 }
 
 header a:hover{
-  color: #e8491d;
   font-weight: bold;
 }
 
@@ -92,8 +80,6 @@ header a:hover{
   min-height: 500px;
   background:url('../img/showcase.png') no-repeat 0 -150px;
   text-align: center;
-  color: white;
-  border-bottom: gold 3px solid;
 }
 
 #showcase h1{
@@ -124,7 +110,6 @@ header a:hover{
 }
 
 #networks {
-  border-bottom: gold 3px solid;
 }
 
 #networks a{
@@ -143,7 +128,6 @@ header a:hover{
 }
 
 .inclusion {
-  color: white;
   padding: 5px 0 10px 0;
   display: block;
   letter-spacing: 1px;
@@ -169,12 +153,10 @@ header a:hover{
 }
 
 .fab {
-  background: #F0F0F0;
-  color: #282828;
+  
 }
 
 .fab:hover {
-  color: red;
 }
 
 /* =========================== */
@@ -231,5 +213,4 @@ footer{
   padding: 5px;
   margin-top: 5px;
   text-align: center;
-  color: #ffffff;
 }
